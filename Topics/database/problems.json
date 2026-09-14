@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-14T07:38:36.152Z",
+  "updatedAt": "2026-09-14T07:39:35.517Z",
   "problems": [
     {
       "frontendId": "178",
@@ -23,6 +23,26 @@
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "fe95f876400b5a09abcdb12da7779794068018a1",
           "lastSyncedAt": "2026-09-14T07:38:36.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "problemName": "0596-classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+      "folderPath": "0596-classes-with-at-least-5-students/",
+      "readmePath": "0596-classes-with-at-least-5-students/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0596-classes-with-at-least-5-students.sql",
+          "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
+          "sha": "4b16e1bb5dbc77566cb549fde4a4af9629ab0c72",
+          "lastSyncedAt": "2026-09-14T07:39:35.517Z"
         }
       ]
     }
