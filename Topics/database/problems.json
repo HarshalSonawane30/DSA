@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-14T07:40:19.132Z",
+  "updatedAt": "2026-09-14T07:40:36.140Z",
   "problems": [
+    {
+      "frontendId": "175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "problemName": "0175-combine-two-tables",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/combine-two-tables/",
+      "folderPath": "0175-combine-two-tables/",
+      "readmePath": "0175-combine-two-tables/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0175-combine-two-tables.sql",
+          "path": "0175-combine-two-tables/0175-combine-two-tables.sql",
+          "sha": "f9ee01d9d5775d447661ab4fb1c70d81f6a2c2cb",
+          "lastSyncedAt": "2026-09-14T07:40:36.140Z"
+        }
+      ]
+    },
     {
       "frontendId": "178",
       "title": "Rank Scores",
