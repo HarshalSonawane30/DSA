@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-14T07:40:47.587Z",
+  "updatedAt": "2026-09-14T07:42:34.309Z",
   "problems": [
     {
       "frontendId": "175",
@@ -43,6 +43,26 @@
           "path": "0176-second-highest-salary/0176-second-highest-salary.sql",
           "sha": "01df0320472a747b4dc00af122395080d8449109",
           "lastSyncedAt": "2026-09-14T07:40:47.587Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "177",
+      "title": "Nth Highest Salary",
+      "slug": "nth-highest-salary",
+      "problemName": "0177-nth-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/nth-highest-salary/",
+      "folderPath": "0177-nth-highest-salary/",
+      "readmePath": "0177-nth-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0177-nth-highest-salary.sql",
+          "path": "0177-nth-highest-salary/0177-nth-highest-salary.sql",
+          "sha": "539d3809d8586b62d8c67cc14ef021bb656157b3",
+          "lastSyncedAt": "2026-09-14T07:42:34.309Z"
         }
       ]
     },
