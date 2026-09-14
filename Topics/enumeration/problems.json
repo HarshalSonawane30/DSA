@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration"
+  },
+  "updatedAt": "2026-09-14T07:43:04.224Z",
+  "problems": [
+    {
+      "frontendId": "829",
+      "title": "Consecutive Numbers Sum",
+      "slug": "consecutive-numbers-sum",
+      "problemName": "0829-consecutive-numbers-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers-sum/",
+      "folderPath": "0829-consecutive-numbers-sum/",
+      "readmePath": "0829-consecutive-numbers-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0829-consecutive-numbers-sum.cpp",
+          "path": "0829-consecutive-numbers-sum/0829-consecutive-numbers-sum.cpp",
+          "sha": "63d0d1d87370d9cd9745a6efe202fa13e80574cd",
+          "lastSyncedAt": "2026-09-14T07:43:04.224Z"
+        }
+      ]
+    }
+  ]
+}
