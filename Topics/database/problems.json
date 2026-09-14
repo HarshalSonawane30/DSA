@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-14T07:39:40.699Z",
+  "updatedAt": "2026-09-14T07:39:46.583Z",
   "problems": [
     {
       "frontendId": "178",
@@ -23,6 +23,26 @@
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "fe95f876400b5a09abcdb12da7779794068018a1",
           "lastSyncedAt": "2026-09-14T07:38:36.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "problemName": "0584-find-customer-referee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+      "folderPath": "0584-find-customer-referee/",
+      "readmePath": "0584-find-customer-referee/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0584-find-customer-referee.sql",
+          "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
+          "sha": "26ae52bbecc54d305afb4f44140d8620fcfa9c13",
+          "lastSyncedAt": "2026-09-14T07:39:46.583Z"
         }
       ]
     },
