@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-09-14T07:43:04.224Z",
+  "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "0007-reverse-integer/0007-reverse-integer.java",
+          "sha": "d785266dd2d45a33fb50d0f90799b945b5c481cf",
+          "lastSyncedAt": "2026-09-14T07:40:59.670Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0009-palindrome-number.java",
+          "path": "0009-palindrome-number/0009-palindrome-number.java",
+          "sha": "d9f4dce0d1aad0c5ccc59bc5da45077ca6eed569",
+          "lastSyncedAt": "2026-09-14T07:40:41.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "829",
+      "title": "Consecutive Numbers Sum",
+      "slug": "consecutive-numbers-sum",
+      "problemName": "0829-consecutive-numbers-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers-sum/",
+      "folderPath": "0829-consecutive-numbers-sum/",
+      "readmePath": "0829-consecutive-numbers-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0829-consecutive-numbers-sum.cpp",
+          "path": "0829-consecutive-numbers-sum/0829-consecutive-numbers-sum.cpp",
+          "sha": "63d0d1d87370d9cd9745a6efe202fa13e80574cd",
+          "lastSyncedAt": "2026-09-14T07:43:04.224Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-09-14T07:42:34.309Z",
+  "problems": [
+    {
+      "frontendId": "175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "problemName": "0175-combine-two-tables",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/combine-two-tables/",
+      "folderPath": "0175-combine-two-tables/",
+      "readmePath": "0175-combine-two-tables/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0175-combine-two-tables.sql",
+          "path": "0175-combine-two-tables/0175-combine-two-tables.sql",
+          "sha": "f9ee01d9d5775d447661ab4fb1c70d81f6a2c2cb",
+          "lastSyncedAt": "2026-09-14T07:40:36.140Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "problemName": "0176-second-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary/",
+      "folderPath": "0176-second-highest-salary/",
+      "readmePath": "0176-second-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0176-second-highest-salary.sql",
+          "path": "0176-second-highest-salary/0176-second-highest-salary.sql",
+          "sha": "01df0320472a747b4dc00af122395080d8449109",
+          "lastSyncedAt": "2026-09-14T07:40:47.587Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "177",
+      "title": "Nth Highest Salary",
+      "slug": "nth-highest-salary",
+      "problemName": "0177-nth-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/nth-highest-salary/",
+      "folderPath": "0177-nth-highest-salary/",
+      "readmePath": "0177-nth-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0177-nth-highest-salary.sql",
+          "path": "0177-nth-highest-salary/0177-nth-highest-salary.sql",
+          "sha": "539d3809d8586b62d8c67cc14ef021bb656157b3",
+          "lastSyncedAt": "2026-09-14T07:42:34.309Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "problemName": "0178-rank-scores",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-scores/",
+      "folderPath": "0178-rank-scores/",
+      "readmePath": "0178-rank-scores/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0178-rank-scores.sql",
+          "path": "0178-rank-scores/0178-rank-scores.sql",
+          "sha": "fe95f876400b5a09abcdb12da7779794068018a1",
+          "lastSyncedAt": "2026-09-14T07:38:36.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "181",
+      "title": "Employees Earning More Than Their Managers",
+      "slug": "employees-earning-more-than-their-managers",
+      "problemName": "0181-employees-earning-more-than-their-managers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
+      "folderPath": "0181-employees-earning-more-than-their-managers/",
+      "readmePath": "0181-employees-earning-more-than-their-managers/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0181-employees-earning-more-than-their-managers.sql",
+          "path": "0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
+          "sha": "41a63f2bb3e735f22bff1949ed4c1b6d1cb5dd81",
+          "lastSyncedAt": "2026-09-14T07:40:19.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "0182-duplicate-emails/",
+      "readmePath": "0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "0182-duplicate-emails/0182-duplicate-emails.sql",
+          "sha": "70817b949da7225f216010c22001081eaed7a106",
+          "lastSyncedAt": "2026-09-14T07:40:11.786Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "183",
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "problemName": "0183-customers-who-never-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customers-who-never-order/",
+      "folderPath": "0183-customers-who-never-order/",
+      "readmePath": "0183-customers-who-never-order/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0183-customers-who-never-order.sql",
+          "path": "0183-customers-who-never-order/0183-customers-who-never-order.sql",
+          "sha": "583cb7f9be83eeedb7cde695d30258f699812966",
+          "lastSyncedAt": "2026-09-14T07:40:01.131Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "problemName": "0577-employee-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+      "folderPath": "0577-employee-bonus/",
+      "readmePath": "0577-employee-bonus/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0577-employee-bonus.sql",
+          "path": "0577-employee-bonus/0577-employee-bonus.sql",
+          "sha": "2743ff9eb268039cd615a332936a22ef641d6e40",
+          "lastSyncedAt": "2026-09-14T07:39:56.098Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "problemName": "0584-find-customer-referee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+      "folderPath": "0584-find-customer-referee/",
+      "readmePath": "0584-find-customer-referee/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0584-find-customer-referee.sql",
+          "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
+          "sha": "26ae52bbecc54d305afb4f44140d8620fcfa9c13",
+          "lastSyncedAt": "2026-09-14T07:39:46.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "0595-big-countries/",
+      "readmePath": "0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0595-big-countries.sql",
+          "path": "0595-big-countries/0595-big-countries.sql",
+          "sha": "4a296897ec335455790c4c9d48d98678ecd0ac2c",
+          "lastSyncedAt": "2026-09-14T07:39:40.699Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "problemName": "0596-classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+      "folderPath": "0596-classes-with-at-least-5-students/",
+      "readmePath": "0596-classes-with-at-least-5-students/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0596-classes-with-at-least-5-students.sql",
+          "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
+          "sha": "4b16e1bb5dbc77566cb549fde4a4af9629ab0c72",
+          "lastSyncedAt": "2026-09-14T07:39:35.517Z"
+        }
+      ]
+    }
+  ]
+}
