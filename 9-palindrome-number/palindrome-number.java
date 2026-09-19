@@ -1,18 +1,30 @@
-class Solution {
-    public boolean isPalindrome(int x) {
+import java.util.Scanner;
 
-        if (x < 0 || (x != 0 && x % 10 == 0)) {
-            return false;
-        }
+class palindrome{
+		public static void palindromeNum(int n){
+			int dup =n;
+            int revNum=0;
+            while (n>0) {
+                int lastdigit=n%10;
+                n=n/10;
+                revNum=revNum*10+lastdigit;
+                
+            }
+            if (revNum==dup){
+                System.out.println("The given Number is the palindrome number");
 
-        int reversedHalf = 0;
+            }
+            else {
+                System.out.println("the num is not palindrome");
+            }
+            
 
-        while (x > reversedHalf) {
-            int digit = x % 10;
-            reversedHalf = reversedHalf * 10 + digit;
-            x = x / 10;
-        }
+		}
+		public static void main(String[]args){
+            Scanner sc = new Scanner(System.in);
+            int n=sc.nextInt();
+			
+			palindromeNum(n);
+		}
 
-        return x == reversedHalf || x == reversedHalf / 10;
-    }
 }
