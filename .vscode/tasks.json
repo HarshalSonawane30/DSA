@@ -1,0 +1,45 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Java",
+      "type": "shell",
+      "command": "javac",
+      "args": [
+        "-encoding",
+        "UTF-8",
+        "${file}"
+      ],
+      "group": "build",
+      "problemMatcher": "$javac",
+      "options": {
+        "cwd": "${fileDirname}"
+      }
+    },
+    {
+      "label": "Build and Run Java (input.txt)",
+      "type": "shell",
+      "command": "javac \"${file}\" && java -cp \"${fileDirname}\" \"${fileBasenameNoExtension}\" < \"${fileDirname}\\input.txt\" > \"${fileDirname}\\output.txt\"",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": "$javac",
+      "presentation": {
+        "clear": true,
+        "panel": "shared",
+        "reveal": "always"
+      },
+      "options": {
+        "cwd": "${fileDirname}",
+        "shell": {
+          "executable": "cmd.exe",
+          "args": [
+            "/d",
+            "/c"
+          ]
+        }
+      }
+    }
+  ]
+}

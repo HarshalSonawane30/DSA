@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug current Java file",
+      "request": "launch",
+      "mainClass": "${fileBasenameNoExtension}",
+      "cwd": "${fileDirname}",
+      "console": "internalConsole",
+      "preLaunchTask": "Build Java"
+    }
+  ]
+}
