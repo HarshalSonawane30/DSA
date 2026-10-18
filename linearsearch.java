@@ -21,6 +21,5 @@ public class linearsearch {
         int result=linearSearch(n,num,arr);
         System.out.println(result);
     }
-    
 
 }

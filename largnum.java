@@ -7,7 +7,6 @@ class largnum{
 	 	System.out.println("Enter the first Number");
 	 	int num2=sc.nextInt();
 
-
 	 	if(num1==num2){
 	 		System.out.println("Both are same");
 	 	}

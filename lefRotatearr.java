@@ -1,13 +1,13 @@
 import java.util.*;
-
 public class lefRotatearr {
 
-    public static int[] lefRotatearr(int[] arr, int n) {
+    public static int[] lefRotatearr(int[] arr,int n) {
 
         int temp = arr[0];
 
         
         for (int i = 0; i < n - 1; i++) {
+
             arr[i]=  arr[i + 1];
         }
 
@@ -35,6 +35,6 @@ public class lefRotatearr {
             System.out.print(result[i] + " ");
         }
 
-        sc.close();
+        
     }
 }
